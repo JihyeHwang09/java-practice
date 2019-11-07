@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a921863e-9a04-4d4a-9018-e7788c7a49bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/list/list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/list/list.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/list/src/ArrayListEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/list/src/VectorEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-structure/list/src/VectorEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/map/map.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/map/src/HashMapEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/map/src/HashtableEx01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -16,6 +13,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -50,7 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data-structure/list" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -60,7 +60,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15298088" />
     <property name="project.structure.side.proportion" value="0.23902439" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -86,18 +86,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VectorEx02">
-    <configuration name="HashSetEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashSetEx02" />
-      <module name="set" />
+  <component name="RunManager" selected="Application.HashtableEx01">
+    <configuration name="HashMapEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapEx01" />
+      <module name="map" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetEx03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashSetEx03" />
-      <module name="set" />
+    <configuration name="HashtableEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashtableEx01" />
+      <module name="map" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashtableEx01" />
+        <item itemvalue="Application.HashMapEx01" />
         <item itemvalue="Application.VectorEx02" />
         <item itemvalue="Application.LinkedHashSetEx01" />
         <item itemvalue="Application.TreeSetEx01" />
-        <item itemvalue="Application.HashSetEx03" />
-        <item itemvalue="Application.HashSetEx02" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +189,8 @@
       <workItem from="1572402707293" duration="3050000" />
       <workItem from="1572419579547" duration="36000" />
       <workItem from="1573089137839" duration="8879000" />
-      <workItem from="1573101669055" duration="2131000" />
+      <workItem from="1573101669055" duration="4706000" />
+      <workItem from="1573115781144" duration="1366000" />
     </task>
     <servers />
   </component>
