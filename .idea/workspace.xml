@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a921863e-9a04-4d4a-9018-e7788c7a49bd" name="Default Changelist" comment="" />
+    <list default="true" id="a921863e-9a04-4d4a-9018-e7788c7a49bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/list/list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/list/list.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/list/src/ArrayListEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/list/src/VectorEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure/list/src/VectorEx02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +39,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PzUlOCo0VJBB3XSz5ABQrxNIEE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data-structure/list" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -50,6 +66,13 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="HashSetEx02" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CRS-P-89\Desktop\dev\java-practice\data-structure\list" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRS-P-89\Desktop\dev\java-practice\data-structure" />
+      <recent name="C:\Users\CRS-P-89\Desktop\dev\java-practice\data-structure\list" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,15 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedHashSetEx01">
-    <configuration name="HashSetEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashSetEx01" />
-      <module name="set" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VectorEx02">
     <configuration name="HashSetEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashSetEx02" />
       <module name="set" />
@@ -104,6 +119,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VectorEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VectorEx02" />
+      <module name="list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -128,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VectorEx02" />
         <item itemvalue="Application.LinkedHashSetEx01" />
         <item itemvalue="Application.TreeSetEx01" />
         <item itemvalue="Application.HashSetEx03" />
         <item itemvalue="Application.HashSetEx02" />
-        <item itemvalue="Application.HashSetEx01" />
       </list>
     </recent_temporary>
   </component>
@@ -165,11 +188,25 @@
       <workItem from="1571797780264" duration="481000" />
       <workItem from="1572402707293" duration="3050000" />
       <workItem from="1572419579547" duration="36000" />
-      <workItem from="1573089137839" duration="3922000" />
+      <workItem from="1573089137839" duration="8879000" />
+      <workItem from="1573101669055" duration="2131000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

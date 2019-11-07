@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/data-structure/data-structure.iml" filepath="$PROJECT_DIR$/data-structure/data-structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-practice.iml" filepath="$PROJECT_DIR$/java-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/list/list.iml" filepath="$PROJECT_DIR$/data-structure/list/list.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer-pattern/observer-pattern.iml" filepath="$PROJECT_DIR$/observer-pattern/observer-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice01/practice01.iml" filepath="$PROJECT_DIR$/practice01/practice01.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice02/practice02.iml" filepath="$PROJECT_DIR$/practice02/practice02.iml" />
